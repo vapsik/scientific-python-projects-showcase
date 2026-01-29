@@ -1,3 +1,1 @@
-jagan oma DV numbriliste lahendamiste teemalisi pythoni ja jupyteri projekte
-
-autor: Ander Pavlov
+Showcase of some Jupyter projects for scientific computing - mostly a showcase of using numerical methods for solving differential equations.
